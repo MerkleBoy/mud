@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.0.0-next.17
+
+### Patch Changes
+
+- @latticexyz/common@2.0.0-next.17
+- @latticexyz/config@2.0.0-next.17
+- @latticexyz/schema-type@2.0.0-next.17
+- @latticexyz/store@2.0.0-next.17
+- @latticexyz/world@2.0.0-next.17
+
 ## 2.0.0-next.16
 
 ### Major Changes

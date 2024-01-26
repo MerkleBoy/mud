@@ -1,3 +1,15 @@
+## Version 2.0.0-next.17
+
+Release date: Fri Jan 26 2024
+
+### Patch changes
+
+**[docs: changeset for #2187 (#2188)](https://github.com/latticexyz/mud/commit/78a837167e527511d1a03fe67f60eb1d2e80aaa2)** (@latticexyz/cli)
+
+Fixed registration of world signatures/selectors for namespaced systems. We changed these signatures in [#2160](https://github.com/latticexyz/mud/pull/2160), but missed updating part of the deploy step.
+
+---
+
 ## Version 2.0.0-next.16
 
 Release date: Tue Jan 23 2024

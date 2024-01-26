@@ -1,5 +1,22 @@
 # Change Log
 
+## 2.0.0-next.17
+
+### Patch Changes
+
+- 78a83716: Fixed registration of world signatures/selectors for namespaced systems. We changed these signatures in [#2160](https://github.com/latticexyz/mud/pull/2160), but missed updating part of the deploy step.
+  - @latticexyz/abi-ts@2.0.0-next.17
+  - @latticexyz/common@2.0.0-next.17
+  - @latticexyz/config@2.0.0-next.17
+  - @latticexyz/gas-report@2.0.0-next.17
+  - @latticexyz/protocol-parser@2.0.0-next.17
+  - @latticexyz/schema-type@2.0.0-next.17
+  - @latticexyz/services@2.0.0-next.17
+  - @latticexyz/store@2.0.0-next.17
+  - @latticexyz/utils@2.0.0-next.17
+  - @latticexyz/world@2.0.0-next.17
+  - @latticexyz/world-modules@2.0.0-next.17
+
 ## 2.0.0-next.16
 
 ### Major Changes
